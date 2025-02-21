@@ -98,5 +98,6 @@
                 ]
             }
         }
-    }
+    },
+    "defaultSocialImage": "/images/compressed_image.png"
 }
