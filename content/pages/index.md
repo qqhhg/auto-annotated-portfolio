@@ -37,7 +37,7 @@ sections:
         justifyContent: center
         flexDirection: row-reverse
         borderRadius: none
-        borderWidth: 2
+        borderWidth: 7
       title:
         textAlign: left
       subtitle:
