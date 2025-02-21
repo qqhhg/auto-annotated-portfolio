@@ -4,7 +4,6 @@ title: home
 colors: colors-e
 backgroundImage:
   type: BackgroundImage
-  url: /images/logo2.svg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
