@@ -44,7 +44,7 @@
             "type": "ImageBlock",
             "url": "/images/1716538630808066.png",
             "altText": "altText of the image",
-            "caption": "Caption of the image",
+            "caption": "",
             "elementId": "<!DOCTYPE html><html lang=\"zh-CN\"><head>    <meta charset=\"UTF-8\">    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">    <title>Element ID 示例</title>    <style>        /* 使用 ID 选择器设置样式 */        #myElement {            font-size: 24px;            color: blue;            text-align: center;            margin-top: 50px;        }        #changeButton {            display: block;            margin: 20px auto;            padding: 10px 20px;            font-size: 18px;            cursor: pointer;        }    </style></head><body>    <h1 id=\"myElement\">这是一个带有 ID 的 HTML 元素</h1>        <button id=\"changeButton\">点击更改文本</button>    <script>        // JavaScript 操作 ID        document.getElementById(\"changeButton\").addEventListener(\"click\", function() {            document.getElementById(\"myElement\").innerHTML = \"你点击了按钮！\";            document.getElementById(\"myElement\").style.color = \"red\"; // 修改文本颜色        });    </script></body></html>"
         }
     },
