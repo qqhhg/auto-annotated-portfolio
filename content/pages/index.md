@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: home
-colors: colors-e
+colors: colors-d
 backgroundImage:
   type: BackgroundImage
   backgroundSize: auto
