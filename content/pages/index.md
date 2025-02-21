@@ -35,7 +35,7 @@ sections:
           - pr-4
         alignItems: center
         justifyContent: center
-        flexDirection: col-reverse
+        flexDirection: row-reverse
         borderRadius: none
         borderWidth: 0
         borderStyle: none
