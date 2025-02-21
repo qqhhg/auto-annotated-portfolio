@@ -3,7 +3,7 @@
     "favicon": "/images/compressed_image.png",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-a",
+        "headerVariant": "variant-c",
         "isSticky": true,
         "title": "Personal",
         "isTitleVisible": false,
